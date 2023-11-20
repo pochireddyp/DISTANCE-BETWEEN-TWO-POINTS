@@ -28,7 +28,8 @@ print("{:.2f}".format(distance))
 
 ### OUTPUT:
 
-![distance between two points](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/a24c87d3-a564-44cf-a932-29e6a39ee3ba)
+![image](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/31e8943e-f3c9-4d67-9e6d-ba1f28aed99d)
+
 
 
 
