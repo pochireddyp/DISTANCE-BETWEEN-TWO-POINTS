@@ -6,7 +6,6 @@ To write a python program to find the distance two 2 points
 ### Step 1: Import the math module
 ### Step 2: Define the coordinates of the first point (x1, y1)
 ### Step 3: Define the coordinates of the second point (x2, y2)
-Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: Calculate the Euclidean distance using the distance formula
 #        (distance = sqrt((x2 - x1)^2 + (y2 - y1)^2))
 ### Step 5: Format and print the result with two decimal places
