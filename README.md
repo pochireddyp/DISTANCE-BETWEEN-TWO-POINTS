@@ -28,10 +28,11 @@ print("{:.2f}".format(distance))
 
 ### OUTPUT:
 
-![image](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/bd167b50-a83e-452e-b45c-d6d0c8665bdd)
+![image](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/1a616e9f-2f6e-4d3d-8ef8-38348675139b)
 
 
 
 
 
 ### RESULT:
+Thus the distance between two points are successfully executed
