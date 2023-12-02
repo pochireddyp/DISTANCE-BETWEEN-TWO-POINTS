@@ -14,8 +14,8 @@ To write a python program to find the distance two 2 points
 ### PROGRAM:
   ```
 #Program to find the distance between two points.
-#Developed by: 
-#RegisterNumber:
+#Developed by: pochireddy.p
+#RegisterNumber:23006090
 import math
 x1,y1=10,6
 x2,y2=4,2
@@ -27,7 +27,8 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-![image](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/50354ee3-9c03-4135-a7b7-d684ad5cf8c8)
+
+![image](https://github.com/pochireddyp/DISTANCE-BETWEEN-TWO-POINTS/assets/150232043/bd167b50-a83e-452e-b45c-d6d0c8665bdd)
 
 
 
